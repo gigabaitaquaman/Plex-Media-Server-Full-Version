@@ -238,3 +238,6 @@ This repository serves as the official landing page for Plex Media Server. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Plex Media Server today!**
+
+---
+**Last updated:** 2026-09-10 09:23:29 UTC
