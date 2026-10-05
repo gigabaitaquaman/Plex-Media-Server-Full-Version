@@ -240,4 +240,4 @@ This repository serves as the official landing page for Plex Media Server. The s
 **Get the most recent version of Plex Media Server today!**
 
 ---
-**Last updated:** 2026-10-05 17:54:46 UTC
+**Last updated:** 2026-10-05 23:45:48 UTC
